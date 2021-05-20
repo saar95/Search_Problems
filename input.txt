@@ -1,6 +1,6 @@
-BFS
+DFBnB
 with time
-no open
+with open
 3x4
 1,2,3,4,
 5,6,11,7,

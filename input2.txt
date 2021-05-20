@@ -1,5 +1,5 @@
-A*
-no time
+IDA*
+with time
 no open
 3x3
 1,_,4
